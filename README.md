@@ -15,6 +15,11 @@ C++ | C | Python
     <br>Fun adventure game.
     <br>The game is written in C++ using the SFML library.
   <br><br>
+- **🎮 Circle the Cat**
+    <br>Trapping puzzle game.
+    <br>The game uses the bfs algorithm for the cat to find the shortest exit path.
+    <br>The game is written in C++ using the SFML library.
+  <br><br>
 <br><br>
 
 ## 🔨 Languages and Tools
