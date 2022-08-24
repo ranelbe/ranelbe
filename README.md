@@ -11,13 +11,17 @@ C++ | C | Python
 <br><br>
 
 ## 📝 Notable Projects
-- **🎮 Pengi Adventures**
+- **🐧 Pengi Adventures**
     <br>Fun adventure game.
     <br>The game is written in C++ using the SFML library.
   <br><br>
-- **🎮 Circle the Cat**
+- **🐈 Circle the Cat**
     <br>Trapping puzzle game.
     <br>The game uses the bfs algorithm for the cat to find the shortest exit path.
+    <br>The game is written in C++ using the SFML library.
+  <br><br>
+ - **👑 Save the King**
+    <br>Fun adventure game.
     <br>The game is written in C++ using the SFML library.
   <br><br>
 <br><br>
