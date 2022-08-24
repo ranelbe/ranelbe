@@ -11,6 +11,10 @@ C++ | C | Python
 <br><br>
 
 ## 📝 Notable Projects
+- **🎮 Pengi Adventures**
+    <br>Fun adventure game.
+    <br>The game is written in C++ using the SFML library.
+  <br><br>
 <br><br>
 
 ## 🔨 Languages and Tools
