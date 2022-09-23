@@ -11,6 +11,10 @@ C++ | C | Python
 <br><br>
 
 ## 📝 Notable Projects
+- **💼 Portfolio**
+    <br>My portfolio.
+    <br>Built using html5, css3, bootstrap and js.
+  <br><br>
 - **🐧 Pengi Adventures**
     <br>Fun adventure game.
     <br>The game is written in C++ using the SFML library.
