@@ -1,13 +1,13 @@
 # 👨‍💻 About Me
-Hey, I am **Ranel**!
+Hey, I am **Ranel**! 👋🏽
 <br>
 I am a tech-savvy, auto-didact **Software Developer.**
 <br>
 Third-year Computer Science student at Hadassah Academic College, Jerusalem.
 <br>
-Knowledge of programming languages:
+I am mostly skilled in C++ | C | Python.
 <br>
-C++ | C | Python
+I have experience with HTML5, CSS3, Bootstrap, JavaScript, Linux.
 <br><br>
 
 ## 📝 Notable Projects
@@ -34,11 +34,16 @@ C++ | C | Python
 <img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+
 
 <br><br>
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img align="left" alt="BOOTSTRAP" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="Adobe Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />
+<img align="left" alt="Adobe Premiere" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" />
 
