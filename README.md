@@ -5,8 +5,6 @@ I am a tech-savvy, auto-didact **Software Developer** <br>
 and recent Computer Science graduate with a GPA of 95.7.
 <br>
 I excel at problem-solving and possess a diverse skill set for tackling challenges. <br>
-Take a look at my portfolio: 
-<a href="https://ranelbe.com/" target="_blank">ranelbe.com</a>
 
 ## 🔨 Languages and Tools
 <img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
