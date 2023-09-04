@@ -1,5 +1,5 @@
 # 👨‍💻 About Me
-Hey, I am **Ranel**! 👋🏽
+Hello, I am **Ranel**! 👋🏽
 <br>
 I am a tech-savvy, auto-didact **Software Developer** <br>
 and recent Computer Science graduate with a GPA of 95.7.
