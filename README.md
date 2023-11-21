@@ -2,7 +2,7 @@
 Hello, I am **Ranel**! 👋🏽
 <br>
 I am a tech-savvy, auto-didact **Software Developer** <br>
-and recent Computer Science graduate with a GPA of 95.7.
+and recent Computer Science graduate with a GPA of 95.86.
 <br>
 I excel at problem-solving and possess a diverse skill set for tackling challenges.
 <br>
