@@ -43,7 +43,7 @@ portfolio: <a href="https://ranelbe.github.io/">ranelbe.github.io</a>
 <img align="left" alt="Linux" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <br/><br/>
 
-## 📬 Completed Courses
+## 📚 Completed Courses
 * Operating Systems & Parallel Programming
 * Object Oriented Programming, C++
 * Python Programming
