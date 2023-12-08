@@ -26,8 +26,6 @@ portfolio: <a href="https://ranelbe.github.io/">ranelbe.github.io</a>
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="Github" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-<img align="left" alt="Adobe Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />
-<img align="left" alt="Adobe Premiere" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" />
 
 <br><br><br>
 ## 📬 Contact me
