@@ -31,12 +31,13 @@ portfolio: <a href="https://ranelbe.github.io/">ranelbe.github.io</a>
 
 <img align="left" alt="Postgresql" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Sqlalchemy" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" />
+<img align="left" alt="MongoDB" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="React" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+
+<br/><br/>
+
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-
-<br/><br/> 
-
 <img align="left" alt="Bootstrap" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="Git" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="Github" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
