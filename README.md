@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
 Hello, I am **Ranel**! 👋🏽   
 I am a tech-savvy, auto-didact **Software Developer**  
-and recent Computer Science graduate with a GPA of <b>95.86</b>.  
+and recent Computer Science graduate with a GPA of <b>96</b>.  
 I excel at problem-solving and possess a diverse skill set for tackling challenges.  
 portfolio: <a href="https://ranelbe.github.io/">ranelbe.github.io</a>
 
@@ -18,27 +18,25 @@ portfolio: <a href="https://ranelbe.github.io/">ranelbe.github.io</a>
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Node.js" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Express.js" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
 
 <br/><br/>
 
-<img align="left" alt="Node.js" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Express.js" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
 <img align="left" alt="Spring" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
 <img align="left" alt="Flask" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
 <img align="left" alt="mysql" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
-
-<br/><br/>
-
 <img align="left" alt="Postgresql" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Sqlalchemy" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" />
 <img align="left" alt="MongoDB" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="React" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 
 <br/><br/>
 
+<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 <img align="left" alt="Bootstrap" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="Bootstrap" width="36px" src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="Git" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="Github" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 <img align="left" alt="Linux" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
