@@ -36,7 +36,7 @@ portfolio: <a href="https://ranelbe.github.io/">ranelbe.github.io</a>
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 <img align="left" alt="Bootstrap" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Bootstrap" width="36px" src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="tailwindcss" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Git" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="Github" width="36px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 <img align="left" alt="Linux" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
